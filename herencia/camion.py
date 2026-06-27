@@ -10,3 +10,12 @@ class Camion(Vehiculo):
 
     def describe(self):
         return f"Camión: {super().describe()} (capacidad {self.capacidad_kg} kg)"
+    
+
+
+
+
+
+
+
+    
